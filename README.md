@@ -86,7 +86,6 @@ The model outperforms DenseNet-201, MobileNet, Inception-v3, and VGG-19 in both 
 
 
 
-````
 
 ---
 
@@ -125,6 +124,10 @@ Recommended GPU for training (tested on NVIDIA DGX A100).
 ```bash
 git clone https://github.com/rakeshchandrajoshi/gallbladder_ultrasound.git
 cd gallbladder_ultrasound
+
+
+
+
 ````
 
 ### 2️⃣ Run the notebook
