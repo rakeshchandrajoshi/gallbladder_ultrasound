@@ -188,16 +188,3 @@ The model is **not a substitute for professional medical diagnosis** and should 
 
 
 ⭐ If you find this work useful, please consider **starring the repository** and **citing the paper**.
-
-```
-
----
-
-If you want, I can also:
-- Add **badges** (DOI, journal, TensorFlow, license)
-- Write a **short GitHub description tagline**
-- Optimize it for **Google Scholar / GitHub SEO**
-- Add a **demo inference snippet** with sample input/output
-
-Just tell me 👍
-```
