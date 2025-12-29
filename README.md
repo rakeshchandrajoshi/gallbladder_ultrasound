@@ -1,14 +1,3 @@
-Below is a **clean, professional, and publication-aligned `README.md`** you can directly copy–paste into your GitHub repository.
-It is written to:
-
-* Clearly explain the **problem, method, and contributions**
-* Align tightly with your **published CMPB paper**
-* Make the repository look **polished, reproducible, and reviewer-friendly**
-* Explain the **two files** currently in the repo
-* Encourage **citation and reuse**
-
----
-
 ```markdown
 # Self-Attention-Guided Residual Deep Neural Network for Gallbladder Disease Diagnosis
 
