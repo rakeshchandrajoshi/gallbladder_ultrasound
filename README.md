@@ -186,19 +186,6 @@ The model is **not a substitute for professional medical diagnosis** and should 
 
 ---
 
-## 📬 Contact
-
-For questions or collaborations:
-
-* **Corresponding Author:**
-  **Dr. Malay Kishore Dutta**
-  📧 [malaykishoredutta@gmail.com](mailto:malaykishoredutta@gmail.com)
-
-* **Code Maintainer:**
-  **Dr. Rakesh Chandra Joshi**
-  📧 [rakeshchandraindia@gmail.com](mailto:rakeshchandraindia@gmail.com)
-
----
 
 ⭐ If you find this work useful, please consider **starring the repository** and **citing the paper**.
 
