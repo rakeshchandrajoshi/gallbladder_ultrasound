@@ -65,28 +65,24 @@ The model classifies the following **nine disease categories**:
 The model outperforms DenseNet-201, MobileNet, Inception-v3, and VGG-19 in both **accuracy and efficiency**.
 
 ---
-
 ## 🗂 Repository Contents
-📁 gallbladder_ultrasound
-│
+
+```text
+gallbladder_ultrasound/
 ├── gallbladder_ultrasound_self_attention.ipynb
-│ └── Jupyter Notebook containing:
-│ • Data preprocessing
-│ • Model architecture
-│ • Training and validation
-│ • Evaluation metrics
-│ • Grad-CAM explainability
+│   └── Jupyter Notebook containing:
+│       • Data preprocessing
+│       • Model architecture
+│       • Training and validation
+│       • Evaluation metrics
+│       • Grad-CAM explainability
 │
 ├── model-031-0.979685-0.992509.keras
-│ └── Pre-trained Keras model
-│ • Ready for inference
-│ • Best-performing checkpoint
+│   └── Pre-trained Keras model
+│       • Ready for inference
+│       • Best-performing checkpoint
 │
 └── README.md
-
-
-
-
 ---
 
 ## 📦 Dataset
