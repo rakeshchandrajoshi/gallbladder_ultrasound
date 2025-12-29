@@ -75,7 +75,6 @@ gallbladder_ultrasound/
 │       • Model architecture
 │       • Training and validation
 │       • Evaluation metrics
-│       • Grad-CAM explainability
 │
 ├── model-031-0.979685-0.992509.keras
 │   └── Pre-trained Keras model
