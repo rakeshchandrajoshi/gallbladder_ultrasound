@@ -1,3 +1,78 @@
+# Self-Attention-Guided Residual Deep Neural Network for Gallbladder Disease Diagnosis
+
+📌 **Official implementation of the model proposed in:**
+
+> **Self-attention-guided residual deep neural network with multi-scale dilated feature extraction for automated gallbladder disease diagnosis in ultrasound imaging**  
+> *Computer Methods and Programs in Biomedicine*, Volume 271, November 2025, 109020  
+> https://doi.org/10.1016/j.cmpb.2025.109020
+
+---
+
+## 📖 Overview
+
+Gallbladder diseases such as gallstones, cholecystitis, adenomyomatosis, carcinoma, and perforation can lead to severe complications if not diagnosed early. Ultrasound imaging is the primary diagnostic modality, but manual interpretation is challenging due to noise, low contrast, and inter-observer variability.
+
+This repository provides the **official source code and trained model** for a **Self-Attention-Guided Residual Deep Neural Network with Multi-Scale Dilated Feature Extraction**, designed for **fine-grained classification of nine gallbladder diseases from ultrasound images**.
+
+The proposed model integrates:
+- **Multi-scale dilated convolutions** for capturing local and global contextual features
+- **Self-attention mechanisms** to focus on disease-relevant regions
+- **Residual connections** to preserve spatial information and stabilize deep training
+
+The framework achieves **state-of-the-art performance** while remaining lightweight and computationally efficient.
+
+---
+
+## 🚀 Key Contributions
+
+- ✔️ Novel **attention-aware residual CNN** for multi-class gallbladder disease classification  
+- ✔️ **Nine-class classification** using heterogeneous ultrasound data  
+- ✔️ Robust to **noise, artifacts, and intra-class variability**  
+- ✔️ **High accuracy (99.17%)** with real-time inference capability  
+- ✔️ Explainable predictions using **Grad-CAM visualizations**  
+- ✔️ Lightweight model suitable for **clinical and point-of-care deployment**
+
+---
+
+## 🩺 Gallbladder Disease Classes
+
+The model classifies the following **nine disease categories**:
+
+1. Gallstones  
+2. Cholecystitis  
+3. Membranous and Gangrenous Cholecystitis  
+4. Perforation  
+5. Polyps and Cholesterol Crystals  
+6. Adenomyomatosis  
+7. Carcinoma  
+8. Abdomen and Retroperitoneal Pathology  
+9. Various Causes of Gallbladder Wall Thickening  
+
+---
+
+## 📊 Performance Highlights
+
+| Metric | Value |
+|------|------|
+| **Accuracy** | **99.17%** |
+| Precision | 99.17% |
+| Recall | 98.94% |
+| AUC | 1.00 |
+| Model Size | 14.33 MB |
+| Parameters | 3.76M |
+| Inference Speed | ~120 images/sec |
+
+The model outperforms DenseNet-201, MobileNet, Inception-v3, and VGG-19 in both **accuracy and efficiency**.
+
+---
+
+## 🗂 Repository Contents
+
+
+
+
+
+
 ```markdown
 # Self-Attention-Guided Residual Deep Neural Network for Gallbladder Disease Diagnosis
 
